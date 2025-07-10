@@ -46,13 +46,19 @@ El análisis siguió estos pasos:
 
 - Productos más Rentables: Identifiqué que "Camisa", "Pantalón" y "Zapatos" generaron la mayor parte de los ingresos en este dataset.
 
-![Productos más Rentables](ingresos_totales_por_productos.png)
+![Productos más rentables](ingresos_totales_por_productos.png)
 
 - Países con Mayores Ingresos: España destacó como el país con la mayor contribución a los ingresos totales.
 
+![Países con mayores ingresos](ingresos_totales_por_pais.png)
+
 - Métodos de Pago Preferidos: La tarjeta fue el método de pago más frecuente.
 
+![Métodos de pago preferidos](ditribu_meto_pagos.png)
+
 - Valor Promedio de la Transacción: Calculé que el valor promedio de una transacción fue de €56.00.
+
+![Valor Promedio de la Transacción](valor_promedio_transacc.png)
 
 ## Conclusiones
 
