@@ -14,7 +14,7 @@ Para este proyecto, se utilizó un **dataset de ventas ficticio y simplificado**
 * **Pandas:** Para manipulación y análisis de datos (DataFrames).
 * **Matplotlib:** Para visualización de datos.
 * **Seaborn:** Para visualización de datos estadísticos atractivos.
-* **Google Colab:** Entorno de desarrollo interactivo basado en la nube.
+* **Google Colab:** Entorno de desarrollo interactivo basado en la nube. (https://colab.research.google.com/drive/15NwYATLWj5rmfaH276UHzg7VIa14xEFm?usp=sharing)
 
 ## 📈 Fases del Análisis y *Insights* Clave
 
