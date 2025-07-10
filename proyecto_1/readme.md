@@ -46,6 +46,8 @@ El análisis siguió estos pasos:
 
 - Productos más Rentables: Identifiqué que "Camisa", "Pantalón" y "Zapatos" generaron la mayor parte de los ingresos en este dataset.
 
+![Productos más Rentables](ingresos_totales_por_productos.png)
+
 - Países con Mayores Ingresos: España destacó como el país con la mayor contribución a los ingresos totales.
 
 - Métodos de Pago Preferidos: La tarjeta fue el método de pago más frecuente.
