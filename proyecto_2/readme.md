@@ -20,7 +20,9 @@ Posteriormente, realicé una exploración inicial de datos. Utilicé `df.info()`
 
 Una vez que los datos estaban preparados, procedí a la visualización de las series de tiempo. Grafiqué la 'Temperatura_C' a lo largo del mes, lo que me permitió observar fluctuaciones diarias y una tendencia general con picos y valles claros. Asimismo, visualicé la 'Precipitacion_mm' en un gráfico de barras, identificando dos períodos distintos con lluvias significativas durante el mes simulado.
 
-AQUI
+![Foto 1](tende_diar_temp.png)
+
+![Foto 2](ma_cor_var_clima.png)
 
 Finalmente, para entender las relaciones entre las variables climáticas, calculé la matriz de correlación y la visualicé con un mapa de calor. A través de este análisis, descubrí una fuerte correlación negativa entre la temperatura y la humedad (-0.95), sugiriendo que los días más cálidos tendían a ser menos húmedos. También observé una fuerte correlación negativa entre la temperatura y la precipitación (-0.79) y una fuerte correlación positiva entre la humedad y la precipitación (0.82), resultados que son lógicamente consistentes con los fenómenos meteorológicos.
 
