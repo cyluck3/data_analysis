@@ -22,9 +22,9 @@ Una vez que los datos estaban preparados, procedí a la visualización de las se
 
 ![Foto_1](tende_diar_tem.png)
 
-![Foto 2](ma_cor_var_clima.png)
-
 Finalmente, para entender las relaciones entre las variables climáticas, calculé la matriz de correlación y la visualicé con un mapa de calor. A través de este análisis, descubrí una fuerte correlación negativa entre la temperatura y la humedad (-0.95), sugiriendo que los días más cálidos tendían a ser menos húmedos. También observé una fuerte correlación negativa entre la temperatura y la precipitación (-0.79) y una fuerte correlación positiva entre la humedad y la precipitación (0.82), resultados que son lógicamente consistentes con los fenómenos meteorológicos.
+
+![Foto 2](ma_cor_var_clima.png)
 
 ## Mis Conclusiones
 
