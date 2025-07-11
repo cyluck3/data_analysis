@@ -20,7 +20,7 @@ Posteriormente, realicé una exploración inicial de datos. Utilicé `df.info()`
 
 Una vez que los datos estaban preparados, procedí a la visualización de las series de tiempo. Grafiqué la 'Temperatura_C' a lo largo del mes, lo que me permitió observar fluctuaciones diarias y una tendencia general con picos y valles claros. Asimismo, visualicé la 'Precipitacion_mm' en un gráfico de barras, identificando dos períodos distintos con lluvias significativas durante el mes simulado.
 
-![Foto 1](tende_diar_temp.png)
+![Foto_1](tende_diar_tem.png)
 
 ![Foto 2](ma_cor_var_clima.png)
 
