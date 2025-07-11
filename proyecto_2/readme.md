@@ -1,4 +1,4 @@
-# Mi Proyecto de Análisis de Datos Climáticos y Tendencias de Temperatura
+# Análisis de Datos Climáticos y Tendencias de Temperatura
 
 ## Descripción General del Proyecto
 
