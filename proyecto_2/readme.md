@@ -2,7 +2,7 @@
 
 ## Descripción General del Proyecto
 
-En este proyecto, me he sumergido en el análisis de datos de series de tiempo, aplicando mis conocimientos de Python para explorar un conjunto de datos climáticos. Mi objetivo principal fue realizar un análisis exploratorio de datos para comprender el comportamiento de las temperaturas y la precipitación a lo largo del tiempo, buscando identificar tendencias, patrones y posibles relaciones entre las variables climáticas.
+En este proyecto, me he sumergido en el análisis de datos de series de tiempo, aplicando mis conocimientos de Python para explorar un conjunto de datos climáticos ficticios. Mi objetivo principal fue realizar un análisis exploratorio de datos para comprender el comportamiento de las temperaturas y la precipitación a lo largo del tiempo, buscando identificar tendencias, patrones y posibles relaciones entre las variables climáticas.
 
 ## El Dataset que Utilicé
 
