@@ -6,7 +6,7 @@ En este proyecto, abordé un análisis de datos enfocado en la gestión y las di
 
 ## Dataset
 
-Para este análisis, generé un dataset de ejemplo directamente en Python, simulando datos de ocupantes y servicios de un refugio. El dataset incluyó variables como la edad, el género, la nacionalidad, la fecha de llegada, el servicio principal requerido, la duración de la estancia, condiciones especiales y el número de familiares alojados. La creación de este dataset en memoria me permitió centrarme en las metodologías de análisis sin la necesidad de importar archivos externos.
+Para este análisis, generé un dataset de ejemplo directamente en Python, simulando datos de ocupantes y servicios de un refugio. El dataset incluyó variables como la edad, el género, la nacionalidad, la fecha de llegada, el servicio principal requerido, la duración de la estancia, condiciones especiales y el número de familiares alojados.
 
 ## Herramientas y Librerías Empleadas
 
