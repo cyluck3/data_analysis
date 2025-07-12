@@ -30,7 +30,7 @@ Un paso crucial fue el análisis cruzado de los servicios requeridos por naciona
 
 ## Conclusiones
 
-Este proyecto me permitió aplicar mis habilidades de análisis de datos para extraer *insights* significativos en un contexto social relevante. Los hallazgos sobre la composición de la población, las necesidades de servicio diferenciadas por nacionalidad y la identificación de condiciones especiales son fundamentales para la gestión eficaz de un refugio. Comprender estas dinámicas es esencial para optimizar la asignación de recursos y mejorar la calidad de la atención proporcionada a las personas en situación de vulnerabilidad.
+Los hallazgos sobre la composición de la población, las necesidades de servicio diferenciadas por nacionalidad y la identificación de condiciones especiales son fundamentales para la gestión eficaz de un refugio. Comprender estas dinámicas es esencial para optimizar la asignación de recursos y mejorar la calidad de la atención proporcionada a las personas en situación de vulnerabilidad.
 
 ---
 
