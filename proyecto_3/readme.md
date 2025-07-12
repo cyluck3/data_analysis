@@ -20,6 +20,14 @@ Posteriormente, me enfoqué en el análisis de las características de los ocupa
 
 Un paso crucial fue el análisis cruzado de los servicios requeridos por nacionalidad. Este reveló que las necesidades de alojamiento son particularmente pronunciadas entre la población migrante, mientras que la población local presenta una demanda más distribuida incluyendo comida y asesoría legal. También exploré la distribución de edades a través de un histograma, lo que me permitió identificar grupos etarios específicos con posibles necesidades particulares. Finalmente, analicé las 'Condiciones Especiales' de los ocupantes, reconociendo la presencia de menores, personas con enfermedades crónicas y discapacidad, lo cual es vital para la planificación de atención especializada. La duración de la estancia también fue analizada, proporcionando *insights* sobre la rotación de ocupantes.
 
+![img1](servi_reque.png)
+
+![img1](servi_reque_pornacio.png)
+
+![img1](distriedas.png)
+
+![img1](distriestan.png)
+
 ## Conclusiones
 
 Este proyecto me permitió aplicar mis habilidades de análisis de datos para extraer *insights* significativos en un contexto social relevante. Los hallazgos sobre la composición de la población, las necesidades de servicio diferenciadas por nacionalidad y la identificación de condiciones especiales son fundamentales para la gestión eficaz de un refugio. Comprender estas dinámicas es esencial para optimizar la asignación de recursos y mejorar la calidad de la atención proporcionada a las personas en situación de vulnerabilidad.
