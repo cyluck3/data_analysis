@@ -24,10 +24,6 @@ Un paso crucial fue el análisis cruzado de los servicios requeridos por naciona
 
 Este proyecto me permitió aplicar mis habilidades de análisis de datos para extraer *insights* significativos en un contexto social relevante. Los hallazgos sobre la composición de la población, las necesidades de servicio diferenciadas por nacionalidad y la identificación de condiciones especiales son fundamentales para la gestión eficaz de un refugio. Comprender estas dinámicas es esencial para optimizar la asignación de recursos y mejorar la calidad de la atención proporcionada a las personas en situación de vulnerabilidad.
 
-## Próximos Pasos y Aprendizajes Adicionales
-
-Para proyectos futuros, me gustaría profundizar en el análisis de datos de refugios, quizás incorporando factores estacionales o la evolución de las necesidades a lo largo del tiempo. Podría explorar la creación de modelos predictivos para la ocupación del refugio o para la demanda de servicios específicos. La idea es seguir utilizando el análisis de datos como una herramienta para generar un impacto positivo en la sociedad.
-
 ---
 
 [Enlace a mi Cuaderno de Colab en GitHub](https://colab.research.google.com/drive/10VLiVqh2TDQ5sB2Vnnk0pt2OsdtXd8zv?usp=sharing)
